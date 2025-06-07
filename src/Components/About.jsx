@@ -28,13 +28,13 @@ const About = () => {
                     <div className="bg-gray-800 rounded-lg p-6 text-center">
                         <h2 className="text-xl font-semibold text-blue-400 mb-4">Hobbies</h2>
                         <p className="text-gray-300">
-                        Exploring UI/UX design, building interactive web interfaces, learning new technologies, and solving coding challenges.
+                            Exploring UI/UX design, building interactive web interfaces, learning new technologies, and solving coding challenges.
                         </p>
                     </div>
                 </div>
 
 
-            
+
             </div>
         </div>
     );
